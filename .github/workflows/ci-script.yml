@@ -35,6 +35,6 @@ jobs:
      
     - name: Make hyperlink to jar-war file # Tạo hyperlink để download build 
       uses: actions/upload-artifact@v1
-        with:
+      with:
           name: Click-here
           path: staging
