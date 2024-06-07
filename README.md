@@ -1,3 +1,5 @@
+[![Math Utility Maven Project (CI applied)](https://github.com/manhhiep2003/math-util-1808/actions/workflows/ci-script.yml/badge.svg)](https://github.com/manhhiep2003/math-util-1808/actions/workflows/ci-script.yml)
+
 # Welcome to Math Ultility Repository ver. 7.6.2024
 
 ## You will find in this repo the following stuff
